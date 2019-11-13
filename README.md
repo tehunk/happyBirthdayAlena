@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Hello Alena,
 
-You can use the [editor on GitHub](https://github.com/tehunk/happyBirthdayAlena/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+It’s Tae :)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+First of all,
 
-### Markdown
+* **HAPPY BIRTHDAY !**
+* **생일 축하해 !**
+* **з Днем народження !**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+It’s near the end of 2019, and you have reached another year of your life. Exciting! It has been wonderful to know you and be friend of yours for many years. I wish you the best of the best today, and I hope you have enough time to spend with your friends and family :) I’ll be there in spirit from Berlin. Don’t forget to take care of yourself as you are feeling sick!
 
-```markdown
-Syntax highlighted code block
+My apology that I didn’t have time to send you a letter and a gift in advance because I kept traveling all over Asia and Europe the past two weeks. So... I decided to make a website to celebrate your birthday. This website is dedicated to you Alena. Well, I’ll still send you a real gift, so wait for it.
 
-# Header 1
-## Header 2
-### Header 3
+This website will expire in one year. If we still keep in touch next year, I will probably recycle this website to send you another wish :) Until then, you can visit here whenever you want.
 
-- Bulleted
-- List
+Have the best day!
 
-1. Numbered
-2. List
+Yours best,
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tehunk/happyBirthdayAlena/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Tae on Wed. Nov 13, 2019
