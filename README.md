@@ -1,7 +1,3 @@
----
-layout: home
----
-
 ## Hello Alena,
 
 It’s Tae :)
