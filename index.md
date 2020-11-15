@@ -2,6 +2,28 @@
 title: Alena's Birthday
 ---
 
+## Happy Birthday in 2020
+
+Happy birthday !!!
+
+This year has been crazy due to the coronavirus. I suppose we all had a turbulent year.
+The pandemic took many lives, and subsequent lockdowns/quarantines made people stay home including me.
+For me, it was time to think about my relationships with others such as my family and friends.
+Of course, they were always important, but it was rather easy to overlook their importance when I was busier with work.
+I feel grateful for those who stay with me and care about me even in such a difficult time.
+And for that, I also thank you for always being a good friend. I really appreciate it.
+I wish to have a chance to travel and visit you in the near future... I really want to travel!
+
+Have another wonderful year of your life :)
+
+Yours truly,
+
+Tae
+
+November 2020
+
+---
+
 ## Hello Alena,
 
 It’s Tae :)
